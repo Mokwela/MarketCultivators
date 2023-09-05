@@ -1,5 +1,5 @@
 body{
-  background: #0077B6;
+  background: #90E0EF;
   color: #001D3D ;
   text-align: center ;
   font-family: 'Poppins', sans-serif;
@@ -17,7 +17,7 @@ body{
   background: #023E8A;
   padding: 17px;
   margin: 16px;
-  box-shadow: 10px 10px yellow;
+  box-shadow: 10px 10px #00B4D8;
 }
 a{
   text-decoration: none ;
